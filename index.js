@@ -23,6 +23,5 @@ function iLoveTheBeatles(num){
   do { 
     arry += "I love the Beatles!" + i;
     i ++;
-    
   }
 }
