@@ -23,5 +23,5 @@ function iLoveTheBeatles(num){
   do { 
     arry += "I love the Beatles!" + i;
     i ++;
-  } while (i < 16)
+  } while (i < 15)
 }
