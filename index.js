@@ -12,6 +12,7 @@ function johnLennonFacts(facts){
   let arr1 = [];
   while(n < facts.length){
     arr1.push(facts[n] + '!!!')
+    n ++
   }
   return arr1;
 }
