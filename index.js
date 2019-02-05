@@ -21,9 +21,9 @@ function iLoveTheBeatles(num){
   var arry = "";
   var i = 0;
   do { 
-    arry += "I love the Beatles!" + i;
+    arry.push("I love the Beatles!")
     i ++;
-  } while (i < 15)
+  } while (i < 15 - i)
 return arry;
   
 }
